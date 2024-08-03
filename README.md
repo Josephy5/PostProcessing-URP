@@ -78,7 +78,6 @@ Some of the effects may have issues when using them or don't work for Forward+ o
 ## Example[s]
 Note: I don't have screenshots of every effects in use like basic difference of gaussian.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <img src="https://github.com/user-attachments/assets/db68638b-4640-4474-aa4d-5cb3f8b49a5a" width="600"/>
 Normal
 
@@ -135,7 +134,6 @@ Sharpness
 
 <img src="https://github.com/user-attachments/assets/1873fa6c-d8ad-4b1c-ae35-ce22a169ba45" width="600"/>
 Edge Detect
-</div>
 
 ## Installation
 1. Clone repo or download the asset folder and load it into an unity project.
