@@ -1,0 +1,2 @@
+Note from Dev, this lens flare effect from Acerola looks pretty bad/doesn't seem to function well (even when tested on AceRola's Grassmain/post processing project), 
+will probs make my own or something.
