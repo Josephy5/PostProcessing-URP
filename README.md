@@ -77,63 +77,101 @@ Some of the effects may have issues when using them or don't work for Forward+ o
 
 ## Example[s]
 Note: I don't have screenshots of every effects in use like basic difference of gaussian.
+<br>
 
-<img src="https://github.com/user-attachments/assets/db68638b-4640-4474-aa4d-5cb3f8b49a5a" width="600"/>
 Normal
+<br>
+<img src="https://github.com/user-attachments/assets/db68638b-4640-4474-aa4d-5cb3f8b49a5a" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/7f250cea-3b32-46d4-941a-3abc9c5545f0" width="600"/>
 Basic Kuwahara
+<br>
+<img src="https://github.com/user-attachments/assets/7f250cea-3b32-46d4-941a-3abc9c5545f0" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/3e3e6bf1-03d8-437f-a99a-3f2a8418ff73" width="600"/>
 Generalized Kuwahara
+<br>
+<img src="https://github.com/user-attachments/assets/3e3e6bf1-03d8-437f-a99a-3f2a8418ff73" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/7836682a-a886-4a84-86db-48f8174362e9" width="600"/>
 Anisotropic Kuwahara
+<br>
+<img src="https://github.com/user-attachments/assets/7836682a-a886-4a84-86db-48f8174362e9" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/046e716b-61bd-4d03-ad85-c43404243ff4" width="600"/>
 Bloom
+<br>
+<img src="https://github.com/user-attachments/assets/046e716b-61bd-4d03-ad85-c43404243ff4" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/441e0945-3efc-4662-a9e6-5f3cbf51c3e5" width="600"/>
 Vignette
+<br>
+<img src="https://github.com/user-attachments/assets/441e0945-3efc-4662-a9e6-5f3cbf51c3e5" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/4b7b24c1-bde8-4dfd-9506-b30662f170df" width="600"/>
 Tonemapping (Schlick)
+<br>
+<img src="https://github.com/user-attachments/assets/4b7b24c1-bde8-4dfd-9506-b30662f170df" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/7fd87d1a-bc62-4850-bd99-8d8d52d98d46" width="600"/>
 Pixel Art (Downsampling)
+<br>
+<img src="https://github.com/user-attachments/assets/7fd87d1a-bc62-4850-bd99-8d8d52d98d46" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/8be3d3fc-4d9e-4932-b585-be6f19afe743" width="600"/>
 Color Blindness (Deuteranomaly)
+<br>
+<img src="https://github.com/user-attachments/assets/8be3d3fc-4d9e-4932-b585-be6f19afe743" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/69e88b6a-ad61-4f03-a8cf-9cd1057d060e" width="600"/>
 Hue Shifting
+<br>
+<img src="https://github.com/user-attachments/assets/69e88b6a-ad61-4f03-a8cf-9cd1057d060e" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/5b68bf60-a730-4034-8fbc-ed4dc1f9534d" width="600"/>
 Zoom
+<br>
+<img src="https://github.com/user-attachments/assets/5b68bf60-a730-4034-8fbc-ed4dc1f9534d" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/d9eafb32-b889-4ac8-b905-021eff2aa992" width="600"/>
 Color Correct
+<br>
+<img src="https://github.com/user-attachments/assets/d9eafb32-b889-4ac8-b905-021eff2aa992" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/f724420d-4f73-4fc6-a515-31988838b505" width="600"/>
 Extended Difference Of Gaussian
+<br>
+<img src="https://github.com/user-attachments/assets/f724420d-4f73-4fc6-a515-31988838b505" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/15d08618-021d-4377-858c-163994d1736a" width="600"/>
 Blur (Box)
+<br>
+<img src="https://github.com/user-attachments/assets/15d08618-021d-4377-858c-163994d1736a" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/cf101a2d-5e80-4c06-b886-2c16a4bcc893" width="600"/>
 Color Palette Swapping
+<br>
+<img src="https://github.com/user-attachments/assets/cf101a2d-5e80-4c06-b886-2c16a4bcc893" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/320bd0ba-8333-4417-98f3-51bb64ed5b2f" width="600"/>
 Dithering
+<br>
+<img src="https://github.com/user-attachments/assets/320bd0ba-8333-4417-98f3-51bb64ed5b2f" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/eb53e5e6-386d-460f-8695-bc6aa1a404f9" width="600"/>
 Chromatic Aberration
+<br>
+<img src="https://github.com/user-attachments/assets/eb53e5e6-386d-460f-8695-bc6aa1a404f9" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/cd5a9f04-e487-4763-a23f-02e7802a8ad9" width="600"/>
 Sharpness
+<br>
+<img src="https://github.com/user-attachments/assets/cd5a9f04-e487-4763-a23f-02e7802a8ad9" width="600"/>
+<br>
 
-<img src="https://github.com/user-attachments/assets/1873fa6c-d8ad-4b1c-ae35-ce22a169ba45" width="600"/>
 Edge Detect
+<br>
+<img src="https://github.com/user-attachments/assets/1873fa6c-d8ad-4b1c-ae35-ce22a169ba45" width="600"/>
 
 ## Installation
 1. Clone repo or download the asset folder and load it into an unity project.
@@ -143,11 +181,11 @@ Edge Detect
     
 ## Cresits/Assets used
 The code is based on Acerola's Post Processing effect for Unity's Built In pipeline. 
- - [Post-Processing](https://github.com/GarrettGunnell/Post-Processing)
+ - [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) by Acerola/GarrettGunnell
  - "[Blue Archive]Kasumizawa Miyu" (https://skfb.ly/oyBXP) by MOMO_RUI is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
  - "Japanese Vending Machine" (https://skfb.ly/6ZCEz) by filadog is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
  - Musemi by Occosoftware
- - MagicaCloth2 for hair & cloth physics
+ - Magica Cloth 2 by Magica Soft for hair & cloth physics
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
