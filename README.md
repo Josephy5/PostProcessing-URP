@@ -179,7 +179,7 @@ Edge Detect
 3. Create a volume game object and load the effect's volume component in the volume profile to adjust values
 4. If needed, you can change the effect's render pass event in its render feature under settings 
     
-## Cresits/Assets used
+## Credits/Assets used
 The code is based on Acerola's Post Processing effect for Unity's Built In pipeline. 
  - [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) by Acerola/GarrettGunnell
  - "[Blue Archive]Kasumizawa Miyu" (https://skfb.ly/oyBXP) by MOMO_RUI is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
