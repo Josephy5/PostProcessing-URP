@@ -8,11 +8,11 @@
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-darkred?logo=unity)
 
-A series of post-processing effects for Unity URP (6000.0.58f1). These effects were from Acerola's Post Processing repo, which was designed for Unity's Built-In Pipeline. 
-I have adapted these effects over to Unity 6 URP as part of my self study on shader programming and to improve their performance in Unity. Initially, I modified them for Unity 2022 URP, 
-but I am gradually updating this repo with improved versions of the Unity 2022 effects I did over to Unity 6, along with other improvements. 
+A series of post-processing effects for Unity URP (6000.0.58f1). These effects were from Acerola's Post Processing repo (which was designed for Unity's Built-In Pipeline) and I have 
+since adapted these effects over to Unity 6 URP as part of my self study on shader programming and to improve its performance in Unity. 
 
-You can access all previous code and materials for the PostProcessing-URP that I developed in Unity 2022 URP here in the [Unity 2022.3.20f1 branch](https://github.com/Josephy5/PostProcessing-URP/tree/Unity-2022.3.20f1-Version)
+Initially, I modified them for Unity 2022 URP, but I am gradually updating this repo with improved versions of the effects I did over to Unity 6. You can access all previous 
+code and materials for the PostProcessing-URP that I developed in Unity 2022 URP here in the [Unity 2022.3.20f1 branch](https://github.com/Josephy5/PostProcessing-URP/tree/Unity-2022.3.20f1-Version)
 
 ## Notes
 As of now, I have only updated the Anisotropic Kuwahara effect to work with Unity 6, as that was my last contribution during my time at Serious Point Games. 
