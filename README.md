@@ -44,7 +44,7 @@ Anisotropic Kuwahara
 4. If needed, you can change the effect's render pass event in its render feature under settings 
     
 ## Credits/Assets used
-The code is based on Acerola's Post Processing effect for Unity's Built In pipeline, but it has since been modified to work on Unity 6 and for preformance improvements, etc. 
+The code is based on Acerola's Post Processing effect for Unity's Built In pipeline, but it has since been modified to work on Unity 6 URP and for preformance improvements, etc. 
  - [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) by Acerola/GarrettGunnell. Licensed under MIT license - See [THIRD PARTY LICENSES](THIRD_PARTY_LICENSES) for details.
  - "[Blue Archive]Kasumizawa Miyu" (https://skfb.ly/oyBXP) by MOMO_RUI is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
  - "Japanese Vending Machine" (https://skfb.ly/6ZCEz) by filadog is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
