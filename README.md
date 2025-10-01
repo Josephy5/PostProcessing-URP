@@ -16,8 +16,8 @@ You can access all previous code and materials for the PostProcessing-URP that I
 
 ## Notes
 As of now, I have only updated the Anisotropic Kuwahara effect to work with Unity 6, as that was my last contribution during my time at Serious Point Games. 
-I plan to gradually bring over the remaining effects to Unity 6, one by one. Do note that some of the effects may have issues when using them or 
-don't work for Forward+ or Deffered rendering.
+I plan to gradually bring over the remaining effects to Unity 6, one by one. The effects uses Unity 6000.0.50f1's compatibility mode for it to work. Because of that, it can be modified with 
+a few changes to still be able to work on older Unity versions like Unity 2022. Do note that some of the effects may have issues when using them or don't work for Forward+ or Deffered rendering.
 
 ## Includes
 - Kuwahara
@@ -41,7 +41,8 @@ Anisotropic Kuwahara
 1. Clone repo or download the asset folder and load it into an unity project.
 2. Add the render feature of the effect that you want to use to the Universal Renderer Data you are using
 3. Create a volume game object and load the effect's volume component in the volume profile to adjust values
-4. If needed, you can change the effect's render pass event in its render feature under settings 
+4. If needed, you can change the effect's render pass event in its render feature under settings
+5. Ensure that Compatibility mode is on, which can be located under Project Settings > Graphics > Render Graph
     
 ## Credits/Assets used
 The code is based on Acerola's Post Processing effect for Unity's Built In pipeline, but it has since been modified to work on Unity 6 URP and for preformance improvements, etc. 
